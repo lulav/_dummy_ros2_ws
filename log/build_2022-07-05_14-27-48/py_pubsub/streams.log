@@ -1,0 +1,41 @@
+[0.804s] Invoking command in '/home/lulav/dev/dummy_ros2_ws/src/py_pubsub': PYTHONPATH=/home/lulav/dev/dummy_ros2_ws/install/py_pubsub/lib/python3.8/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/lulav/dev/dummy_ros2_ws/build/py_pubsub/build install --prefix /home/lulav/dev/dummy_ros2_ws/install/py_pubsub --record /home/lulav/dev/dummy_ros2_ws/build/py_pubsub/install.log --single-version-externally-managed
+[1.017s] running egg_info
+[1.018s] creating ../../build/py_pubsub/py_pubsub.egg-info
+[1.019s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[1.019s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[1.019s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[1.020s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[1.020s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[1.027s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.083s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.084s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.085s] running build
+[1.085s] running build_py
+[1.085s] creating /home/lulav/dev/dummy_ros2_ws/build/py_pubsub/build
+[1.086s] creating /home/lulav/dev/dummy_ros2_ws/build/py_pubsub/build/lib
+[1.086s] creating /home/lulav/dev/dummy_ros2_ws/build/py_pubsub/build/lib/py_pubsub
+[1.087s] copying py_pubsub/subscriber_member_function.py -> /home/lulav/dev/dummy_ros2_ws/build/py_pubsub/build/lib/py_pubsub
+[1.087s] copying py_pubsub/__init__.py -> /home/lulav/dev/dummy_ros2_ws/build/py_pubsub/build/lib/py_pubsub
+[1.088s] copying py_pubsub/publisher_member_function.py -> /home/lulav/dev/dummy_ros2_ws/build/py_pubsub/build/lib/py_pubsub
+[1.089s] running install
+[1.089s] running install_lib
+[1.090s] creating /home/lulav/dev/dummy_ros2_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[1.091s] copying /home/lulav/dev/dummy_ros2_ws/build/py_pubsub/build/lib/py_pubsub/subscriber_member_function.py -> /home/lulav/dev/dummy_ros2_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[1.091s] copying /home/lulav/dev/dummy_ros2_ws/build/py_pubsub/build/lib/py_pubsub/__init__.py -> /home/lulav/dev/dummy_ros2_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[1.091s] copying /home/lulav/dev/dummy_ros2_ws/build/py_pubsub/build/lib/py_pubsub/publisher_member_function.py -> /home/lulav/dev/dummy_ros2_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[1.092s] byte-compiling /home/lulav/dev/dummy_ros2_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/subscriber_member_function.py to subscriber_member_function.cpython-38.pyc
+[1.094s] byte-compiling /home/lulav/dev/dummy_ros2_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/__init__.py to __init__.cpython-38.pyc
+[1.094s] byte-compiling /home/lulav/dev/dummy_ros2_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/publisher_member_function.py to publisher_member_function.cpython-38.pyc
+[1.095s] running install_data
+[1.095s] creating /home/lulav/dev/dummy_ros2_ws/install/py_pubsub/share/ament_index
+[1.095s] creating /home/lulav/dev/dummy_ros2_ws/install/py_pubsub/share/ament_index/resource_index
+[1.096s] creating /home/lulav/dev/dummy_ros2_ws/install/py_pubsub/share/ament_index/resource_index/packages
+[1.096s] copying resource/py_pubsub -> /home/lulav/dev/dummy_ros2_ws/install/py_pubsub/share/ament_index/resource_index/packages
+[1.096s] copying package.xml -> /home/lulav/dev/dummy_ros2_ws/install/py_pubsub/share/py_pubsub
+[1.096s] running install_egg_info
+[1.098s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/lulav/dev/dummy_ros2_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info
+[1.100s] running install_scripts
+[1.125s] Installing listener script to /home/lulav/dev/dummy_ros2_ws/install/py_pubsub/lib/py_pubsub
+[1.126s] Installing talker script to /home/lulav/dev/dummy_ros2_ws/install/py_pubsub/lib/py_pubsub
+[1.127s] writing list of installed files to '/home/lulav/dev/dummy_ros2_ws/build/py_pubsub/install.log'
+[1.156s] Invoked command in '/home/lulav/dev/dummy_ros2_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/lulav/dev/dummy_ros2_ws/install/py_pubsub/lib/python3.8/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/lulav/dev/dummy_ros2_ws/build/py_pubsub/build install --prefix /home/lulav/dev/dummy_ros2_ws/install/py_pubsub --record /home/lulav/dev/dummy_ros2_ws/build/py_pubsub/install.log --single-version-externally-managed
